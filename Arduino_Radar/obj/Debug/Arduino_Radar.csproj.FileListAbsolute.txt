@@ -1,2 +1,10 @@
 F:\learn\C_Sharp\Radar\Arduino_Radar\Arduino_Radar\bin\Debug\Arduino_Radar.exe.config
 F:\learn\C_Sharp\Radar\ArduinoRadar\Arduino_Radar\bin\Debug\Arduino_Radar.exe.config
+F:\learn\C_Sharp\Radar\ArduinoRadar\Arduino_Radar\obj\Debug\Arduino_Radar.csprojResolveAssemblyReference.cache
+F:\learn\C_Sharp\Radar\ArduinoRadar\Arduino_Radar\obj\Debug\Arduino_Radar.Form1.resources
+F:\learn\C_Sharp\Radar\ArduinoRadar\Arduino_Radar\obj\Debug\Arduino_Radar.Properties.Resources.resources
+F:\learn\C_Sharp\Radar\ArduinoRadar\Arduino_Radar\obj\Debug\Arduino_Radar.csproj.GenerateResource.Cache
+F:\learn\C_Sharp\Radar\ArduinoRadar\Arduino_Radar\bin\Debug\Arduino_Radar.exe
+F:\learn\C_Sharp\Radar\ArduinoRadar\Arduino_Radar\bin\Debug\Arduino_Radar.pdb
+F:\learn\C_Sharp\Radar\ArduinoRadar\Arduino_Radar\obj\Debug\Arduino_Radar.exe
+F:\learn\C_Sharp\Radar\ArduinoRadar\Arduino_Radar\obj\Debug\Arduino_Radar.pdb
