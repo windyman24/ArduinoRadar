@@ -1,0 +1,2 @@
+F:\learn\C_Sharp\Radar\Arduino_Radar\Arduino_Radar\bin\Debug\Arduino_Radar.exe.config
+F:\learn\C_Sharp\Radar\ArduinoRadar\Arduino_Radar\bin\Debug\Arduino_Radar.exe.config
